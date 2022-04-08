@@ -2,9 +2,10 @@
 
 The target of the project is to obtain a diagram in the form of a city model in which the boxes (blocks) represent the instances generated in a certain period of time. This type of model will allow visualizing several key figures. 
 
-Below two examples of what the project should look like.
+<img width="70%" src="./front-end/img/versio-citymap.png"/>
 
-![Seerene City Map](https://miro.medium.com/max/875/1*o2j307U2uuVSBjJF0xJNTA.png)
+
+
 
 <br>
 
